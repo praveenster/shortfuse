@@ -1,0 +1,1 @@
+inspired by: [Writing a FUSE Filesystem: a Tutorial](http://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/)
